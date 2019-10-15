@@ -7,7 +7,7 @@ This repository uses git submodules to pull in the various workspace dependencie
 To clone this repo:
 
 ```
-git clone --branch=<branch> --recurse-submodules https://github.com/LoopKit/LoopWorkspace
+git clone --branch=nonlinear-carb-model --recurse-submodules https://github.com/alex-mchardy/LoopWorkspace
 ```
 
 Replace `<branch>` with the initial LoopWorkspace repository branch you wish to checkout.
